@@ -1,0 +1,15 @@
+
+.Mylist{
+    max-height: 150px;
+    overflow: auto;
+}
+
+#avatarIncome{
+   color: #fff;
+   background-color: green;
+}
+
+#avatarExpence{
+    color: white;
+    background-color: red;
+}

@@ -1,0 +1,10 @@
+
+.Income{
+    border-bottom: 10px solid rgba(11, 250, 3, 0.562);
+    margin: 15px;
+}
+
+.Expence{
+    border-bottom: 10px solid rgba(238, 42, 2, 0.728);
+    margin: 15px;
+}

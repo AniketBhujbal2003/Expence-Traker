@@ -1,0 +1,17 @@
+
+
+.ht{
+    height: 400px;
+}
+
+@media screen and (max-width: 600px) {
+    .mobile {
+       display: none;
+    }
+  }
+
+@media screen and (min-width: 601px) {
+    .desktop {
+       display: none;
+    }
+  }
